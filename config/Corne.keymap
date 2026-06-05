@@ -34,8 +34,8 @@
         lower_layer {
             // -----------------------------------------------------------------------------------------
             // |  TAB |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0  | BKSP |
-            // | BTCLR| BT1 | BT2 | BT3 | BT4 | BT5 |   | LFT | DWN |  UP | RGT |     |      |
-            // | SHFT |     |     |     |     |     |   |     |     |     |     |     |      |
+            // | BTCLR| BT1 | BT2 | BT3 | BT4 | BT5 |   | LFT | DWN |  UP | RGT |     | BL_INC|
+            // | SHFT |O_TOG|     |     |     |     |   |     |     |     |     |     | BL_DEC|
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
