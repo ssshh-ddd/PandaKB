@@ -57,7 +57,7 @@
 
             bindings = <
 &bt BT_CLR       &bt BT_SEL 0   &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp KP_MULTIPLY          &kp INTERNATIONAL_3  &kp RS(N8)               &kp LPAR             &kp LEFT_BRACKET         &rgb_ug RGB_TOG
-&kp EXCLAMATION  &kp LS(N2)     &kp HASH      &kp DLLR      &kp PRCNT     &kp LS(N6)      &kp MINUS                &kp RS(UNDERSCORE)   &kp LS(RIGHT_BRACE)      &kp NON_US_HASH      &kp RS(LEFT_BRACKET)     &rgb_ug RGB_BRI
+&kp EXCLAMATION  &kp LS(N2)     &kp HASH      &kp DLLR      &kp PRCNT     &kp LS(N6)      &kp MINUS                &kp RS(UNDERSCORE)   &kp RIGHT_BRACE          &kp NON_US_HASH      &kp RS(LEFT_BRACKET)     &rgb_ug RGB_BRI
 &kp EQUAL        &kp LS(EQUAL)  &trans        &trans        &trans        &trans          &kp RS(INTERNATIONAL_1)  &kp RS(SEMI)         &kp RS(LS(RIGHT_BRACE))  &kp RS(NON_US_HASH)  &kp RS(INTERNATIONAL_3)  &rgb_ug RGB_BRD
                                               &kp LGUI      &trans        &kp SPACE       &kp RET                  &trans               &kp RALT
             >;
